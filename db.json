@@ -20,5 +20,10 @@
       "image" : "https://edteam-media.s3.amazonaws.com/courses/original/9828742f-4da6-426e-80c9-e5081cc7f7a9.png",
       "price" :  "20 USD" , 
       "profesor": "Lucero Alberto"} 
+	{ "id":5,
+      "title" : "SEO Desde 0",
+      "image" : "https://edteam-media.s3.amazonaws.com/courses/original/9828742f-4da6-426e-80c9-e5081cc7f7a9.png",
+      "price" :  "20 USD" , 
+      "profesor": "Nuevo Alberto"} 
   ]
 }
